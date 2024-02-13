@@ -9,3 +9,5 @@
 ##### This is my first sub markdown header H5
 
 ###### This is my first sub markdown header H6
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
